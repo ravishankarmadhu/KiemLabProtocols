@@ -33,7 +33,7 @@ This protocol occurs after isolating WBCs from BM, which takes approximately 30 
 4. Save 3 aliquots[^2] of the 50mL Cell resuspension for [[RM006 - Staining Cells for Flow|Flow Analysis]]. These 3 aliquots will be unstained, stained with the [[RM007b - NHP HSC Panel|HSC Panel]], and stained with the [[RM007a - NHP Lineage Panel|Lineage Panel]]. 
 5. Spin down the cells at 800 x g for 5 minutes. Aspirate to the pellet. 
 6. Resuspend the cell pellet in **1mL of [[MACS Buffer]] per 1e8 WBCs. 
-7. Add 12.8 Antibody to the cell suspension to create **a final 12.8 concentration of 40ug/mL**. [^3]
+7. Add 12.8 Antibody to the cell suspension to create **a final 12.8 concentration of 20ug/mL**. [^3]
 8. Incubate the solution for 30 minutes in a gentle shaker / rocker at 4C. 
 9. Wash the solution in 50mL of [[RM034 - List of Commonly Used Lab Buffers#MACS Buffer|MACS Buffer]]. Spin down at 800 x g for 5 minutes. Aspirate to the pellet.
 10. Resuspend pellet in 50mL of [[RM034 - List of Commonly Used Lab Buffers#MACS Buffer|MACS Buffer]]. 
