@@ -10,9 +10,9 @@ I hope you found this useful.
 
 Ravishankar Madhu
 M1 at Creighton University School of Medicine
-www.linkedin.com/in/ravishankar-madhu
-https://github.com/ravishankarmadhu
-https://twitter.com/Ravishankar_Mad
+[LinkedIn](www.linkedin.com/in/ravishankar-madhu)
+[GitHub](https://github.com/ravishankarmadhu)
+[Twitter](https://twitter.com/Ravishankar_Mad)
 
 
 
